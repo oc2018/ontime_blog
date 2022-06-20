@@ -1,0 +1,1 @@
+export const graghCMSImageLoader = ({src}) => src;
